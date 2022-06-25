@@ -21,4 +21,8 @@
 4. In WinForm: 
    After print in FrmXuatKho & FrmNhapKho ... 
    -> Go to 1-Export & 1-Import in Source Code/FinalProject to check.
+   
+
+
+Link Demo: https://www.youtube.com/watch?v=fjyFbUOT-lk
 
