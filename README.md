@@ -1,7 +1,7 @@
 # This is Final Project
 1. Because of Icon link, to use application with full icon:
    Go to Desktop -> Create Folder "GitHub" -> Right Click -> Choose Git Bash Here
-   -> git clone https://github.com/vth24072000/Final-Project.git final
+   -> git clone https://github.com/519H0170/Sales-Management-System final
 
 2. Go to final/Source Code:
    2.1 Execute DaiLiBanHang.sql to have database
