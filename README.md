@@ -1,7 +1,7 @@
-# This is Final Project
+# This is WareHouse Management System Project
 1. Because of Icon link, to use application with full icon:
    Go to Desktop -> Create Folder "GitHub" -> Right Click -> Choose Git Bash Here
-   -> git clone https://github.com/519H0170/WareHouse-Management-System final
+   -> git clone https://github.com/519H0170/WMS-2022-25-06 final
 
 2. Go to final/Source Code:
    2.1 Execute DaiLiBanHang.sql to have database
